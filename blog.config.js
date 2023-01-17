@@ -33,7 +33,7 @@ const BLOG = {
     telegram: 'https://t.me/zuolan'
   },
   seo: {
-    keywords: ['Auf', 'Agung', 'Blog', 'Notion Blog','NextJS Blog','Notion Next JS Blog','QA','Quality Assurance','QA Engineer','SDET','SDLC','STLC','SQA'],
+    keywords: ['Auf', 'Quality Assurance', 'SQA Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
